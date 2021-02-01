@@ -1,4 +1,4 @@
 # animated-adventure
-Recognize Car Number Plate and count them
+Recognize Car Number Plate
 
 This code can use in Real Traffic Situations
